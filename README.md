@@ -18,10 +18,8 @@ Dive into an immersive first-person experience with a detailed player body, a ra
 ## Installation
 
 1. Clone this repository:
-   ```bash
    git clone (https://github.com/kancianodev/samplecode.git)
-   
-   Open the project using Unity Hub.
+2. Open the project using Unity Hub.
    
 ## How To Play
 - Movement: WASD keys
@@ -30,6 +28,10 @@ Dive into an immersive first-person experience with a detailed player body, a ra
 - Look Around: Move the Mouse
 - Drop Objects: Q
 - Shoot: LMB (Left Mouse Button)
+
+## License
+
+- MIT License
 
 ## Acknowledgements
 
